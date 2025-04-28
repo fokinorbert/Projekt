@@ -1,0 +1,203 @@
+.film-info-container {
+  padding: 40px 20px;
+  display: flex;
+  justify-content: center;
+  font-family: "Segoe UI", sans-serif;
+  color: #fff;
+  background-color: #101020;
+  min-height: 100vh;
+}
+
+.film-info-content {
+  max-width: 1000px;
+  width: 100%;
+}
+
+.film-info-header {
+  margin-bottom: 24px;
+}
+
+.back-button {
+  background: none;
+  border: none;
+  color: #00aaff;
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  cursor: pointer;
+}
+
+.film-info-main {
+  display: flex;
+  gap: 40px;
+  flex-wrap: wrap;
+}
+
+.film-poster-container {
+  flex: 0 0 300px;
+}
+
+.film-poster-large {
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
+}
+
+.film-details-container {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.film-title-large {
+  font-size: 32px;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.film-meta {
+  font-size: 16px;
+  color: #ccc;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-bottom: 20px;
+}
+
+.film-meta p {
+  margin: 5px 0;
+}
+
+.film-actions {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.action-group {
+  display: flex;
+  gap: 12px;
+}
+
+.action-button {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  background-color: #222;
+  color: #fff;
+  border: none;
+  padding: 10px 14px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.action-button:hover {
+  background-color: #333;
+}
+
+.rating-container {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-top: 10px;
+}
+
+.star-rating {
+  display: flex;
+  gap: 6px;
+}
+
+.modify-button {
+  margin-left: 10px;
+  padding: 5px 10px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.modify-button:hover {
+  background-color: #0056b3;
+}
+
+.comment-section {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-top: 10px;
+}
+
+.comment-textarea {
+  width: 100%;
+  min-height: 80px;
+  padding: 10px;
+  border-radius: 8px;
+  border: none;
+  resize: vertical;
+  font-size: 14px;
+  background-color: #1a1a2a;
+  color: #fff;
+  font-family: "Segoe UI", sans-serif;
+}
+
+.submit-button {
+  align-self: flex-start;
+  background-color: #00aaff;
+  color: white;
+  border: none;
+  padding: 8px 14px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: background-color 0.2s;
+}
+
+.submit-button:hover {
+  background-color: #008ecc;
+}
+
+.comments-section {
+  margin-top: 40px;
+}
+
+.comments-title {
+  font-size: 24px;
+  margin-bottom: 16px;
+  color: #00aaff;
+}
+
+.comments-list {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.comment-item {
+  background-color: #1a1a2a;
+  padding: 16px;
+  border-radius: 8px;
+}
+
+.comment-text {
+  font-size: 16px;
+  color: #ccc;
+}
+
+.comment-date {
+  font-size: 12px;
+  color: #888;
+  margin-top: 8px;
+  display: block;
+}
+
+.comment-text strong {
+  color: #00aaff;
+  font-weight: bold;
+}

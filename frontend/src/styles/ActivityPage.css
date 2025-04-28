@@ -1,0 +1,22 @@
+.activity-container {
+  width: 80%;
+  max-width: 1100px;
+  margin: 40px auto;
+  padding: 20px;
+  background: #2b2b2b;
+  border-radius: 12px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+  color: white;
+}
+
+.activity-title {
+  font-size: 24px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.loading-text {
+  text-align: center;
+  font-size: 18px;
+  color: #aaa;
+}

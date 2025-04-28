@@ -1,0 +1,57 @@
+body {
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(135deg, #1d1e26, #31354a);
+  color: #ffffff;
+}
+
+h1,
+h2 {
+  font-weight: bold;
+  color: #00d4ff;
+  text-align: center;
+}
+
+a {
+  color: #00d4ff;
+  text-decoration: none;
+  transition: color 0.3s ease-in-out;
+}
+
+a:hover {
+  color: #ff009d;
+}
+
+button {
+  background: linear-gradient(135deg, #00d4ff, #007aff);
+  border: none;
+  color: #ffffff;
+  padding: 10px 20px;
+  margin-top: 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+button:hover {
+  transform: scale(1.05);
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3);
+}
+.reviews-section {
+  background: radial-gradient(
+    circle at 50% 0%,
+    rgba(0, 153, 255, 0.15),
+    transparent 70%
+  );
+}
+
+.comments-section {
+  background: radial-gradient(
+    circle at 50% 0%,
+    rgba(0, 153, 255, 0.15),
+    transparent 70%
+  );
+}

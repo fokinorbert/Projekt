@@ -1,0 +1,421 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3520B724-55A7-4B4C-B8F5-82EA6AE51287}|UnitTestFilmWeb\\UnitTestFilmWeb.csproj|c:\\users\\ludac\\desktop\\unittestes_backend\\filmwebmanager\\unittestfilmweb\\userscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3520B724-55A7-4B4C-B8F5-82EA6AE51287}|UnitTestFilmWeb\\UnitTestFilmWeb.csproj|solutionrelative:unittestfilmweb\\userscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3520B724-55A7-4B4C-B8F5-82EA6AE51287}|UnitTestFilmWeb\\UnitTestFilmWeb.csproj|C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\unittestfilmweb\\userpersonscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3520B724-55A7-4B4C-B8F5-82EA6AE51287}|UnitTestFilmWeb\\UnitTestFilmWeb.csproj|solutionrelative:unittestfilmweb\\userpersonscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3520B724-55A7-4B4C-B8F5-82EA6AE51287}|UnitTestFilmWeb\\UnitTestFilmWeb.csproj|C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\unittestfilmweb\\usermoviescontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3520B724-55A7-4B4C-B8F5-82EA6AE51287}|UnitTestFilmWeb\\UnitTestFilmWeb.csproj|solutionrelative:unittestfilmweb\\usermoviescontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3520B724-55A7-4B4C-B8F5-82EA6AE51287}|UnitTestFilmWeb\\UnitTestFilmWeb.csproj|C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\unittestfilmweb\\userlistsmoviescontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3520B724-55A7-4B4C-B8F5-82EA6AE51287}|UnitTestFilmWeb\\UnitTestFilmWeb.csproj|solutionrelative:unittestfilmweb\\userlistsmoviescontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3520B724-55A7-4B4C-B8F5-82EA6AE51287}|UnitTestFilmWeb\\UnitTestFilmWeb.csproj|C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\unittestfilmweb\\userlistscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3520B724-55A7-4B4C-B8F5-82EA6AE51287}|UnitTestFilmWeb\\UnitTestFilmWeb.csproj|solutionrelative:unittestfilmweb\\userlistscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3520B724-55A7-4B4C-B8F5-82EA6AE51287}|UnitTestFilmWeb\\UnitTestFilmWeb.csproj|C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\unittestfilmweb\\usergenrescontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3520B724-55A7-4B4C-B8F5-82EA6AE51287}|UnitTestFilmWeb\\UnitTestFilmWeb.csproj|solutionrelative:unittestfilmweb\\usergenrescontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3520B724-55A7-4B4C-B8F5-82EA6AE51287}|UnitTestFilmWeb\\UnitTestFilmWeb.csproj|C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\unittestfilmweb\\ratingscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3520B724-55A7-4B4C-B8F5-82EA6AE51287}|UnitTestFilmWeb\\UnitTestFilmWeb.csproj|solutionrelative:unittestfilmweb\\ratingscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3520B724-55A7-4B4C-B8F5-82EA6AE51287}|UnitTestFilmWeb\\UnitTestFilmWeb.csproj|C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\unittestfilmweb\\personscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3520B724-55A7-4B4C-B8F5-82EA6AE51287}|UnitTestFilmWeb\\UnitTestFilmWeb.csproj|solutionrelative:unittestfilmweb\\personscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3520B724-55A7-4B4C-B8F5-82EA6AE51287}|UnitTestFilmWeb\\UnitTestFilmWeb.csproj|C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\unittestfilmweb\\moviescontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3520B724-55A7-4B4C-B8F5-82EA6AE51287}|UnitTestFilmWeb\\UnitTestFilmWeb.csproj|solutionrelative:unittestfilmweb\\moviescontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3520B724-55A7-4B4C-B8F5-82EA6AE51287}|UnitTestFilmWeb\\UnitTestFilmWeb.csproj|C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\unittestfilmweb\\movieactorscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3520B724-55A7-4B4C-B8F5-82EA6AE51287}|UnitTestFilmWeb\\UnitTestFilmWeb.csproj|solutionrelative:unittestfilmweb\\movieactorscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3520B724-55A7-4B4C-B8F5-82EA6AE51287}|UnitTestFilmWeb\\UnitTestFilmWeb.csproj|C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\unittestfilmweb\\genrescontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3520B724-55A7-4B4C-B8F5-82EA6AE51287}|UnitTestFilmWeb\\UnitTestFilmWeb.csproj|solutionrelative:unittestfilmweb\\genrescontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3520B724-55A7-4B4C-B8F5-82EA6AE51287}|UnitTestFilmWeb\\UnitTestFilmWeb.csproj|C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\unittestfilmweb\\commentscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3520B724-55A7-4B4C-B8F5-82EA6AE51287}|UnitTestFilmWeb\\UnitTestFilmWeb.csproj|solutionrelative:unittestfilmweb\\commentscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD49A57-289E-42F4-BD1C-40917551D138}|filmwebManager\\filmwebManager.csproj|C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\filmwebmanager\\context\\filmcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD49A57-289E-42F4-BD1C-40917551D138}|filmwebManager\\filmwebManager.csproj|solutionrelative:filmwebmanager\\context\\filmcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD49A57-289E-42F4-BD1C-40917551D138}|filmwebManager\\filmwebManager.csproj|C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\filmwebmanager\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD49A57-289E-42F4-BD1C-40917551D138}|filmwebManager\\filmwebManager.csproj|solutionrelative:filmwebmanager\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD49A57-289E-42F4-BD1C-40917551D138}|filmwebManager\\filmwebManager.csproj|C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\filmwebmanager\\controllers\\userpersonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD49A57-289E-42F4-BD1C-40917551D138}|filmwebManager\\filmwebManager.csproj|solutionrelative:filmwebmanager\\controllers\\userpersonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD49A57-289E-42F4-BD1C-40917551D138}|filmwebManager\\filmwebManager.csproj|C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\filmwebmanager\\controllers\\usermoviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD49A57-289E-42F4-BD1C-40917551D138}|filmwebManager\\filmwebManager.csproj|solutionrelative:filmwebmanager\\controllers\\usermoviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD49A57-289E-42F4-BD1C-40917551D138}|filmwebManager\\filmwebManager.csproj|C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\filmwebmanager\\controllers\\userlistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD49A57-289E-42F4-BD1C-40917551D138}|filmwebManager\\filmwebManager.csproj|solutionrelative:filmwebmanager\\controllers\\userlistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD49A57-289E-42F4-BD1C-40917551D138}|filmwebManager\\filmwebManager.csproj|C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\filmwebmanager\\controllers\\userlistmoviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD49A57-289E-42F4-BD1C-40917551D138}|filmwebManager\\filmwebManager.csproj|solutionrelative:filmwebmanager\\controllers\\userlistmoviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD49A57-289E-42F4-BD1C-40917551D138}|filmwebManager\\filmwebManager.csproj|C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\filmwebmanager\\controllers\\ratingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD49A57-289E-42F4-BD1C-40917551D138}|filmwebManager\\filmwebManager.csproj|solutionrelative:filmwebmanager\\controllers\\ratingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD49A57-289E-42F4-BD1C-40917551D138}|filmwebManager\\filmwebManager.csproj|C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\filmwebmanager\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD49A57-289E-42F4-BD1C-40917551D138}|filmwebManager\\filmwebManager.csproj|solutionrelative:filmwebmanager\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD49A57-289E-42F4-BD1C-40917551D138}|filmwebManager\\filmwebManager.csproj|C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\filmwebmanager\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD49A57-289E-42F4-BD1C-40917551D138}|filmwebManager\\filmwebManager.csproj|solutionrelative:filmwebmanager\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD49A57-289E-42F4-BD1C-40917551D138}|filmwebManager\\filmwebManager.csproj|C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\filmwebmanager\\controllers\\movieactorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD49A57-289E-42F4-BD1C-40917551D138}|filmwebManager\\filmwebManager.csproj|solutionrelative:filmwebmanager\\controllers\\movieactorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD49A57-289E-42F4-BD1C-40917551D138}|filmwebManager\\filmwebManager.csproj|C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\filmwebmanager\\controllers\\usergenrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD49A57-289E-42F4-BD1C-40917551D138}|filmwebManager\\filmwebManager.csproj|solutionrelative:filmwebmanager\\controllers\\usergenrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD49A57-289E-42F4-BD1C-40917551D138}|filmwebManager\\filmwebManager.csproj|C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\filmwebmanager\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD49A57-289E-42F4-BD1C-40917551D138}|filmwebManager\\filmwebManager.csproj|solutionrelative:filmwebmanager\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD49A57-289E-42F4-BD1C-40917551D138}|filmwebManager\\filmwebManager.csproj|C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\filmwebmanager\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD49A57-289E-42F4-BD1C-40917551D138}|filmwebManager\\filmwebManager.csproj|solutionrelative:filmwebmanager\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 150,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "userPersonsController.cs",
+              "DocumentMoniker": "C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\filmwebManager\\Controllers\\userPersonsController.cs",
+              "RelativeDocumentMoniker": "filmwebManager\\Controllers\\userPersonsController.cs",
+              "ToolTip": "C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\filmwebManager\\Controllers\\userPersonsController.cs",
+              "RelativeToolTip": "filmwebManager\\Controllers\\userPersonsController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T21:34:28.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "usersController.cs",
+              "DocumentMoniker": "C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\filmwebManager\\Controllers\\usersController.cs",
+              "RelativeDocumentMoniker": "filmwebManager\\Controllers\\usersController.cs",
+              "ToolTip": "C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\filmwebManager\\Controllers\\usersController.cs",
+              "RelativeToolTip": "filmwebManager\\Controllers\\usersController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAYwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T21:34:20.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "userListsController.cs",
+              "DocumentMoniker": "C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\filmwebManager\\Controllers\\userListsController.cs",
+              "RelativeDocumentMoniker": "filmwebManager\\Controllers\\userListsController.cs",
+              "ToolTip": "C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\filmwebManager\\Controllers\\userListsController.cs",
+              "RelativeToolTip": "filmwebManager\\Controllers\\userListsController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wBgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T21:33:47.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "userListMoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\filmwebManager\\Controllers\\userListMoviesController.cs",
+              "RelativeDocumentMoniker": "filmwebManager\\Controllers\\userListMoviesController.cs",
+              "ToolTip": "C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\filmwebManager\\Controllers\\userListMoviesController.cs",
+              "RelativeToolTip": "filmwebManager\\Controllers\\userListMoviesController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T21:33:28.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ratingsController.cs",
+              "DocumentMoniker": "C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\filmwebManager\\Controllers\\ratingsController.cs",
+              "RelativeDocumentMoniker": "filmwebManager\\Controllers\\ratingsController.cs",
+              "ToolTip": "C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\filmwebManager\\Controllers\\ratingsController.cs",
+              "RelativeToolTip": "filmwebManager\\Controllers\\ratingsController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAmwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T21:33:18.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "personsController.cs",
+              "DocumentMoniker": "C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\filmwebManager\\Controllers\\personsController.cs",
+              "RelativeDocumentMoniker": "filmwebManager\\Controllers\\personsController.cs",
+              "ToolTip": "C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\filmwebManager\\Controllers\\personsController.cs",
+              "RelativeToolTip": "filmwebManager\\Controllers\\personsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T21:33:01.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "moviesController.cs",
+              "DocumentMoniker": "C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\filmwebManager\\Controllers\\moviesController.cs",
+              "RelativeDocumentMoniker": "filmwebManager\\Controllers\\moviesController.cs",
+              "ToolTip": "C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\filmwebManager\\Controllers\\moviesController.cs",
+              "RelativeToolTip": "filmwebManager\\Controllers\\moviesController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA7wCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T21:32:53.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "movieActorsController.cs",
+              "DocumentMoniker": "C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\filmwebManager\\Controllers\\movieActorsController.cs",
+              "RelativeDocumentMoniker": "filmwebManager\\Controllers\\movieActorsController.cs",
+              "ToolTip": "C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\filmwebManager\\Controllers\\movieActorsController.cs",
+              "RelativeToolTip": "filmwebManager\\Controllers\\movieActorsController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAmwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T21:32:44.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "userMoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\filmwebManager\\Controllers\\userMoviesController.cs",
+              "RelativeDocumentMoniker": "filmwebManager\\Controllers\\userMoviesController.cs",
+              "ToolTip": "C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\filmwebManager\\Controllers\\userMoviesController.cs",
+              "RelativeToolTip": "filmwebManager\\Controllers\\userMoviesController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T21:32:21.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "userGenresController.cs",
+              "DocumentMoniker": "C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\filmwebManager\\Controllers\\userGenresController.cs",
+              "RelativeDocumentMoniker": "filmwebManager\\Controllers\\userGenresController.cs",
+              "ToolTip": "C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\filmwebManager\\Controllers\\userGenresController.cs",
+              "RelativeToolTip": "filmwebManager\\Controllers\\userGenresController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T21:32:11.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "genresController.cs",
+              "DocumentMoniker": "C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\filmwebManager\\Controllers\\genresController.cs",
+              "RelativeDocumentMoniker": "filmwebManager\\Controllers\\genresController.cs",
+              "ToolTip": "C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\filmwebManager\\Controllers\\genresController.cs",
+              "RelativeToolTip": "filmwebManager\\Controllers\\genresController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T21:32:01.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FilmContext.cs",
+              "DocumentMoniker": "C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\filmwebManager\\Context\\FilmContext.cs",
+              "RelativeDocumentMoniker": "filmwebManager\\Context\\FilmContext.cs",
+              "ToolTip": "C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\filmwebManager\\Context\\FilmContext.cs",
+              "RelativeToolTip": "filmwebManager\\Context\\FilmContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T21:30:32.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "commentsController.cs",
+              "DocumentMoniker": "C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\filmwebManager\\Controllers\\commentsController.cs",
+              "RelativeDocumentMoniker": "filmwebManager\\Controllers\\commentsController.cs",
+              "ToolTip": "C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\filmwebManager\\Controllers\\commentsController.cs",
+              "RelativeToolTip": "filmwebManager\\Controllers\\commentsController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwCEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T21:29:32.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "usersControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\UnitTestFilmWeb\\usersControllerTest.cs",
+              "RelativeDocumentMoniker": "UnitTestFilmWeb\\usersControllerTest.cs",
+              "ToolTip": "C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\UnitTestFilmWeb\\usersControllerTest.cs",
+              "RelativeToolTip": "UnitTestFilmWeb\\usersControllerTest.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAiwLkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T21:23:43.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "userPersonsControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\UnitTestFilmWeb\\userPersonsControllerTest.cs",
+              "RelativeDocumentMoniker": "UnitTestFilmWeb\\userPersonsControllerTest.cs",
+              "ToolTip": "C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\UnitTestFilmWeb\\userPersonsControllerTest.cs",
+              "RelativeToolTip": "UnitTestFilmWeb\\userPersonsControllerTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T21:23:20.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "userMoviesControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\UnitTestFilmWeb\\userMoviesControllerTest.cs",
+              "RelativeDocumentMoniker": "UnitTestFilmWeb\\userMoviesControllerTest.cs",
+              "ToolTip": "C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\UnitTestFilmWeb\\userMoviesControllerTest.cs",
+              "RelativeToolTip": "UnitTestFilmWeb\\userMoviesControllerTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T21:22:57.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserListsMoviesControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\UnitTestFilmWeb\\UserListsMoviesControllerTest.cs",
+              "RelativeDocumentMoniker": "UnitTestFilmWeb\\UserListsMoviesControllerTest.cs",
+              "ToolTip": "C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\UnitTestFilmWeb\\UserListsMoviesControllerTest.cs",
+              "RelativeToolTip": "UnitTestFilmWeb\\UserListsMoviesControllerTest.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAcwBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T21:22:13.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserListsControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\UnitTestFilmWeb\\UserListsControllerTest.cs",
+              "RelativeDocumentMoniker": "UnitTestFilmWeb\\UserListsControllerTest.cs",
+              "ToolTip": "C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\UnitTestFilmWeb\\UserListsControllerTest.cs",
+              "RelativeToolTip": "UnitTestFilmWeb\\UserListsControllerTest.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAwwBQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T21:21:39.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "userGenresControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\UnitTestFilmWeb\\userGenresControllerTest.cs",
+              "RelativeDocumentMoniker": "UnitTestFilmWeb\\userGenresControllerTest.cs",
+              "ToolTip": "C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\UnitTestFilmWeb\\userGenresControllerTest.cs",
+              "RelativeToolTip": "UnitTestFilmWeb\\userGenresControllerTest.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T21:21:13.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ratingsControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\UnitTestFilmWeb\\ratingsControllerTest.cs",
+              "RelativeDocumentMoniker": "UnitTestFilmWeb\\ratingsControllerTest.cs",
+              "ToolTip": "C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\UnitTestFilmWeb\\ratingsControllerTest.cs",
+              "RelativeToolTip": "UnitTestFilmWeb\\ratingsControllerTest.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T21:20:51.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PersonsControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\UnitTestFilmWeb\\PersonsControllerTest.cs",
+              "RelativeDocumentMoniker": "UnitTestFilmWeb\\PersonsControllerTest.cs",
+              "ToolTip": "C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\UnitTestFilmWeb\\PersonsControllerTest.cs",
+              "RelativeToolTip": "UnitTestFilmWeb\\PersonsControllerTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T21:20:22.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "moviesControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\UnitTestFilmWeb\\moviesControllerTest.cs",
+              "RelativeDocumentMoniker": "UnitTestFilmWeb\\moviesControllerTest.cs",
+              "ToolTip": "C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\UnitTestFilmWeb\\moviesControllerTest.cs",
+              "RelativeToolTip": "UnitTestFilmWeb\\moviesControllerTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T21:20:04.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "movieActorsControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\UnitTestFilmWeb\\movieActorsControllerTest.cs",
+              "RelativeDocumentMoniker": "UnitTestFilmWeb\\movieActorsControllerTest.cs",
+              "ToolTip": "C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\UnitTestFilmWeb\\movieActorsControllerTest.cs",
+              "RelativeToolTip": "UnitTestFilmWeb\\movieActorsControllerTest.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAkwBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T21:19:43.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "genresControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\UnitTestFilmWeb\\genresControllerTest.cs",
+              "RelativeDocumentMoniker": "UnitTestFilmWeb\\genresControllerTest.cs",
+              "ToolTip": "C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\UnitTestFilmWeb\\genresControllerTest.cs",
+              "RelativeToolTip": "UnitTestFilmWeb\\genresControllerTest.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAIwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T21:18:42.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "commentsControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\UnitTestFilmWeb\\commentsControllerTest.cs",
+              "RelativeDocumentMoniker": "UnitTestFilmWeb\\commentsControllerTest.cs",
+              "ToolTip": "C:\\Users\\ludac\\Desktop\\Unittestes_Backend\\filmwebManager\\UnitTestFilmWeb\\commentsControllerTest.cs",
+              "RelativeToolTip": "UnitTestFilmWeb\\commentsControllerTest.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAswJwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T21:18:24.264Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
