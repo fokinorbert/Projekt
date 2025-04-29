@@ -1,0 +1,128 @@
+﻿<Window x:Class="FilmWebAdmin.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="FilmWeb Admin" Height="450" Width="800">
+    <Grid>
+        <TabControl>
+            <TabItem Header="Users">
+                <Grid Margin="10">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="Auto"/>
+                    </Grid.ColumnDefinitions>
+                    <ListView Name="UsersListView" SelectionChanged="UsersListView_SelectionChanged">
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn Header="ID" DisplayMemberBinding="{Binding user_id}"/>
+                                <GridViewColumn Header="Username" DisplayMemberBinding="{Binding username}"/>
+                                <GridViewColumn Header="Email" DisplayMemberBinding="{Binding email}"/>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                    <StackPanel Grid.Column="1" Margin="10,0,0,0" Width="200">
+                        <Label Content="Username:"/>
+                        <TextBox Name="UserUsernameTextBox" Margin="0,0,0,5"/>
+                        <Label Content="Email:"/>
+                        <TextBox Name="UserEmailTextBox" Margin="0,0,0,5"/>
+                        <Label Content="New Password:"/>
+                        <PasswordBox Name="UserPasswordBox" Margin="0,0,0,5"/>
+                        <Label Content="Confirm New Password:"/>
+                        <PasswordBox Name="UserConfirmPasswordBox" Margin="0,0,0,5"/>
+                        <Button Content="Save" Click="SaveUserButton_Click" Margin="0,10,0,5"/>
+                        <Button Content="Delete" Click="DeleteUserButton_Click"/>
+                    </StackPanel>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Genres">
+                <Grid Margin="10">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="Auto"/>
+                    </Grid.ColumnDefinitions>
+                    <ListView Name="GenresListView" SelectionChanged="GenresListView_SelectionChanged">
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn Header="ID" DisplayMemberBinding="{Binding genre_id}"/>
+                                <GridViewColumn Header="Genre Name" DisplayMemberBinding="{Binding genre_name}"/>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                    <StackPanel Grid.Column="1" Margin="10,0,0,0" Width="200">
+                        <Label Content="Genre Name:"/>
+                        <TextBox Name="GenreNameTextBox" Margin="0,0,0,5"/>
+                        <Button Content="Add New Genre" Click="AddGenreButton_Click" Margin="0,10,0,5"/>
+                        <Button Content="Save" Click="SaveGenreButton_Click" Margin="0,10,0,5"/>
+                        <Button Content="Delete" Click="DeleteGenreButton_Click"/>
+                    </StackPanel>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Movies">
+                <Grid Margin="10">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="Auto"/>
+                    </Grid.ColumnDefinitions>
+                    <ListView Name="MoviesListView" SelectionChanged="MoviesListView_SelectionChanged">
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn Header="ID" DisplayMemberBinding="{Binding movie_id}"/>
+                                <GridViewColumn Header="Title" DisplayMemberBinding="{Binding title}"/>
+                                <GridViewColumn Header="Genre" DisplayMemberBinding="{Binding genre_name}"/>
+                                <GridViewColumn Header="Release Year" DisplayMemberBinding="{Binding release_year}"/>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                    <StackPanel Grid.Column="1" Margin="10,0,0,0" Width="200">
+                        <Label Content="Title:"/>
+                        <TextBox Name="MovieTitleTextBox" Margin="0,0,0,5"/>
+                        <Label Content="Genre:"/>
+                        <ComboBox Name="MovieGenreComboBox" DisplayMemberPath="genre_name" Margin="0,0,0,5"/>
+                        <Label Content="Release Year:"/>
+                        <DatePicker Name="MovieReleaseYearPicker" Margin="0,0,0,5"/>
+                        <Label Content="Image URL:"/>
+                        <TextBox Name="MovieImgUrlTextBox" Margin="0,0,0,5"/>
+                        <Button Content="Add New Movie" Click="AddMovieButton_Click" Margin="0,10,0,5"/>
+                        <Button Content="Save" Click="SaveMovieButton_Click" Margin="0,10,0,5"/>
+                        <Button Content="Delete" Click="DeleteMovieButton_Click"/>
+                    </StackPanel>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Persons">
+                <Grid Margin="10">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="Auto"/>
+                    </Grid.ColumnDefinitions>
+                    <ListView Name="PersonsListView" SelectionChanged="PersonsListView_SelectionChanged">
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn Header="ID" DisplayMemberBinding="{Binding person_id}"/>
+                                <GridViewColumn Header="Name" DisplayMemberBinding="{Binding name}"/>
+                                <GridViewColumn Header="Role" DisplayMemberBinding="{Binding role}"/>
+                                <GridViewColumn Header="Birth Date" DisplayMemberBinding="{Binding birth_date}"/>
+                                <GridViewColumn Header="Birth Place" DisplayMemberBinding="{Binding birth_place}"/>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                    <StackPanel Grid.Column="1" Margin="10,0,0,0" Width="200">
+                        <Label Content="Name:"/>
+                        <TextBox Name="PersonNameTextBox" Margin="0,0,0,5"/>
+                        <Label Content="Role:"/>
+                        <ComboBox Name="PersonRoleComboBox" Margin="0,0,0,5">
+                            <ComboBoxItem Content="Actor"/>
+                            <ComboBoxItem Content="Director"/>
+                            <ComboBoxItem Content="Producer"/>
+                        </ComboBox>
+                        <Label Content="Birth Date:"/>
+                        <DatePicker Name="PersonBirthDatePicker" Margin="0,0,0,5"/>
+                        <Label Content="Birth Place:"/>
+                        <TextBox Name="PersonBirthPlaceTextBox" Margin="0,0,0,5"/>
+                        <Button Content="Add New Person" Click="AddPersonButton_Click" Margin="0,10,0,5"/>
+                        <Button Content="Save" Click="SavePersonButton_Click" Margin="0,10,0,5"/>
+                        <Button Content="Delete" Click="DeletePersonButton_Click"/>
+                    </StackPanel>
+                </Grid>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>
